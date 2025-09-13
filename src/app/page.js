@@ -21,7 +21,8 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            This has been changed to use the <code>app</code> directory and{" Warna"} 
+      
           </li>
         </ol>
 
